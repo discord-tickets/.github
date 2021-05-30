@@ -12,9 +12,11 @@
 			- [Website](#website)
 			- [JSDoc](#jsdoc)
 
-Thank you for considering contributing to Discord Tickets.
+Thank you for considering making a contribution to Discord Tickets.
 
 Before contributing, please read the [code of conduct](CODE_OF_CONDUCT.md), which all contributors must follow.
+
+You can add yourself to [CONTRIBUTORS.md](https://github.com/discord-tickets/bot/blob/main/CONTRIBUTORS.md) using the [all-contributors bot](https://allcontributors.org/docs/en/bot/usage).
 
 You don't need to write code to contribute; all contributions are welcome and encouraged. You could:
 
