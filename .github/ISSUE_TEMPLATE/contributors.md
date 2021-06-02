@@ -1,6 +1,6 @@
 ---
 name: Add a contributor
-about: Add yourself as
+about: Add yourself as a contributor
 title: "Add myself as a contributor"
 ---
 
