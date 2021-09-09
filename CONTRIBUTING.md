@@ -1,17 +1,5 @@
 # Contributing
 
-**Table of contents**
-
-- [Contributing](#contributing)
-	- [Submitting a bug report](#submitting-a-bug-report)
-	- [Submitting a feature request](#submitting-a-feature-request)
-	- [Creating a pull request](#creating-a-pull-request)
-		- [Contributing code](#contributing-code)
-		- [Translating](#translating)
-		- [Updating documentation](#updating-documentation)
-			- [Website](#website)
-			- [JSDoc](#jsdoc)
-
 Thank you for considering making a contribution to Discord Tickets.
 
 Before contributing, please read the [code of conduct](CODE_OF_CONDUCT.md), which all contributors must follow.
@@ -82,7 +70,7 @@ Any code changes should be accompanied by any necessary documentation changes.
 
 Please try to keep the meaning of the translation as close to the original as possible. If you want to change the meaning, you can customise your locale files after.
 
-Create an account on [i18n.discordtickets.app](https://i18n.discordtickets.app/) to get started. Ask on [Discord](https://go.eartharoid.me/discord) or in the [discussions](https://github.com/discord-tickets/bot/discussions) to get a new language added.
+To get started, create a free account on [Weblate](https://i18n.capestar.net/engage/discord-tickets/en_GB/).
 
 ### Updating documentation
 
