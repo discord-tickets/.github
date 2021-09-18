@@ -16,3 +16,4 @@ Please read [this](https://github.com/discord-tickets/.github/blob/main/CONTRIBU
 **These awesome people and communities sponsor Discord Tickets:**
 
 - [reSkybounds](https://reskybounds.com/) ([Discord](https://discord.reskybounds.com/))
+- [Cal#0004](https://discord.com/users/239036926152146944) <!-- @24c4 -->
