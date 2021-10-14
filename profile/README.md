@@ -18,3 +18,8 @@ Please read [this](https://github.com/discord-tickets/.github/blob/main/CONTRIBU
 - [reSkybounds](https://reskybounds.com/) ([Discord](https://discord.reskybounds.com/))
 - [Cal#0004](https://discord.com/users/239036926152146944) <!-- @24c4 -->
 - [thephilluk#0204](https://discord.gg/GtvNWEqDUH) <!-- @thephilluk -->
+
+
+## Partnered with
+
+[![PebbleHost](https://img.eartharoid.me/insecure/rs:auto:180/plain/s3://eartharoid/sharex/21/10/pebblehost.webp)](https://discordtickets.app/getting-started#pebblehost)
