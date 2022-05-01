@@ -15,8 +15,31 @@ Please read [this](https://github.com/discord-tickets/.github/blob/main/CONTRIBU
 
 **These awesome people and communities sponsor Discord Tickets:**
 
-- [reSkybounds](https://reskybounds.com/) ([Discord](https://discord.reskybounds.com/))
-- [thephilluk#0204](https://discord.gg/GtvNWEqDUH) <!-- @thephilluk -->
+
+<table>
+	<tr>
+		<td align="center">
+			<a href="https://reskybounds.com">
+				<img
+					src="https://img.eartharoid.me/insecure/rs:auto:256/plain/s3://eartharoid/k/22/05/reskybounds.png"
+					height="128px;"
+					alt="" />
+					<br />
+					<sub><b>reSkybounds</b></sub>
+			</a>
+		</td>
+		<td align="center">
+			<a href="https://simplyvanilla.net">
+				<img
+					src="https://i.imghut.com/2022/04/26/sv-2022-discord-static.png"
+					height="128px;"
+					alt="" />
+					<br />
+					<sub><b>Simply Vanilla</b></sub>
+			</a>
+		</td>
+	</tr>
+</table>
 
 
 ## Partnered with
