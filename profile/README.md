@@ -29,6 +29,16 @@ Please read [this](https://github.com/discord-tickets/.github/blob/main/CONTRIBU
 			</a>
 		</td>
 		<td align="center">
+			<a href="https://darkhosting.club">
+				<img
+					src="https://cdn.discordapp.com/attachments/920423855636496387/943574596777549894/attachment.png"
+					height="128px;"
+					alt="" />
+					<br />
+					<sub><b>DarkHosting™️</b></sub>
+			</a>
+		</td>
+		<td align="center">
 			<a href="https://simplyvanilla.net">
 				<img
 					src="https://i.imghut.com/2022/04/26/sv-2022-discord-static.png"
@@ -36,6 +46,16 @@ Please read [this](https://github.com/discord-tickets/.github/blob/main/CONTRIBU
 					alt="" />
 					<br />
 					<sub><b>Simply Vanilla</b></sub>
+			</a>
+		</td>
+		<td align="center">
+			<a href="https://urhost.io/">
+				<img
+					src="https://static.eartharoid.me/k/22/05/urhost.png"
+					height="128px;"
+					alt="" />
+					<br />
+					<sub><b>URHOST</b></sub>
 			</a>
 		</td>
 	</tr>
