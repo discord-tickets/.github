@@ -49,13 +49,23 @@ Please read [this](https://github.com/discord-tickets/.github/blob/main/CONTRIBU
 			</a>
 		</td>
 		<td align="center">
-			<a href="https://urhost.io/">
+			<a href="https://urhost.io">
 				<img
 					src="https://static.eartharoid.me/k/22/05/urhost.png"
 					height="128px;"
 					alt="" />
 					<br />
 					<sub><b>URHOST</b></sub>
+			</a>
+		</td>
+		<td align="center">
+			<a href="https://sunrisenode.com">
+				<img
+					src="https://i.imgur.com/0gHlN7L.png"
+					height="128px;"
+					alt="" />
+					<br />
+					<sub><b>SunriseNode</b></sub>
 			</a>
 		</td>
 	</tr>
