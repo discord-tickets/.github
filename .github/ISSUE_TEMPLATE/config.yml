@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
-  - name: GitHub Discussions
+  - name: Feature request
+    url: https://lnk.earth/dsctickets-feedback
+    about: Suggest a new feature on Feedbacky
+  - name: Discussions
     url: https://github.com/discord-tickets/bot/discussions
-    about: Start a discussion
-  - name: Discord support server
-    url: https://go.eartharoid.me/discord
-    about: The best place to go for help installing or using Discord Tickets
+    about: Start a discussion to ask for help or anything else
