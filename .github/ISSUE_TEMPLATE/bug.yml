@@ -39,7 +39,7 @@ body:
     description: |
       examples:
         - **OS**: Ubuntu 20.04
-        - **Node**: 13.14.0
+        - **Node**: 18.0.0
         - **NPM**: 7.6.3
         - **Bot**: 4.1.3
     value: |
