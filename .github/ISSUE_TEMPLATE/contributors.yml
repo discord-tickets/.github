@@ -14,7 +14,6 @@ body:
     id: types
     attributes:
       label: What contribution types do you want to be recognised for?
-      required: true
       multiple: true
       options:
         - audio
@@ -50,6 +49,8 @@ body:
         - talk
         - userTesting
         - video
+    validations:
+      required: true
   - type: textarea
     id: context
     attributes:
