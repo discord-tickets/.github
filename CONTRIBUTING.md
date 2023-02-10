@@ -62,7 +62,7 @@ Any code changes should be accompanied by any necessary documentation changes.
 - Indentation should use tabs not spaces
 - Classes should be named in PascalCase
 - Functions should be named in camelCase
-- Variables and constants should be named in snake_case
+- Variables and constants should be named in camelCase
 - Use the latest JS features (destructuring, arrow functions etc)
 - Use the British spelling (colour not color), except where it sucks (center not centre)
 
@@ -70,7 +70,7 @@ Any code changes should be accompanied by any necessary documentation changes.
 
 Please try to keep the meaning of the translation as close to the original as possible. If you want to change the meaning, you can customise your locale files after.
 
-To get started, create a free account on [Weblate](https://i18n.capestar.net/engage/discord-tickets/en_GB/).
+To get started, login to [Weblate](https://hosted.weblate.org/engage/discord-tickets/) with your GitHub account.
 
 ### Updating documentation
 
