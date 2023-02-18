@@ -68,7 +68,9 @@ Any code changes should be accompanied by any necessary documentation changes.
 
 ### Translating
 
-Please try to keep the meaning of the translation as close to the original as possible. If you want to change the meaning, you can customise your locale files after.
+If you want to change the meaning of messages, please customise your own locale files.
+
+**Please review the [translation instructions](https://hosted.weblate.org/projects/discord-tickets/#information) before you begin.**
 
 To get started, login to [Weblate](https://hosted.weblate.org/engage/discord-tickets/) with your GitHub account.
 
