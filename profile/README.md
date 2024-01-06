@@ -41,7 +41,7 @@ Please read [this](https://github.com/discord-tickets/.github/blob/main/CONTRIBU
 		<td align="center">
 			<a href="https://simplyvanilla.net">
 				<img
-					src="https://i.imghut.com/2022/04/26/sv-2022-discord-static.png"
+					src="https://f.simplyvanilla.net/logos/sv-2022-discord-static.png"
 					height="128px;"
 					alt="" />
 					<br />
