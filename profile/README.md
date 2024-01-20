@@ -74,4 +74,4 @@ Please read [this](https://github.com/discord-tickets/.github/blob/main/CONTRIBU
 
 ## Partnered with
 
-[![PebbleHost](https://img.eartharoid.me/insecure/rs:auto:180/plain/s3://eartharoid/sharex/21/10/pebblehost.webp)](https://discordtickets.app/getting-started#pebblehost)
+[![BisectHosting](https://www.bisecthosting.com/partners/custom-banners/41ca8074-184e-4ad1-a44d-77750ee8bfb9.webp)](https://bisecthosting.com/discordtickets)
