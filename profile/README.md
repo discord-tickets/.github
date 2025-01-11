@@ -2,12 +2,14 @@
 
 An open-source ticket management bot for Discord - a free alternative to the premium and white-label plans of other popular ticketing bots.
 
+<!-- These are commented out for now since stats are broken 
 ![](https://img.shields.io/badge/dynamic/json?color=5865F2&label=bots&query=clients.total&url=https%3A%2F%2Fstats.discordtickets.app%2Fapi%2Fv3%2Fcurrent&logo=discord&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/dynamic/json?color=5865F2&label=tickets&query=tickets&url=https%3A%2F%2Fstats.discordtickets.app%2Fapi%2Fv3%2Fcurrent&logo=discord&logoColor=white&style=for-the-badge)
+-->
 
 ## Contributing
 
-Please read [this](https://github.com/discord-tickets/.github/blob/main/CONTRIBUTING.md) if you want to contribute to Discord Tickets.
+Please read [this](https://github.com/discord-tickets/.github/blob/main/CONTRIBUTING.md) page if you want to contribute to Discord Tickets.
 
 ## Sponsored by
 
